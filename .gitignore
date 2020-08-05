@@ -44,3 +44,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+*.sqlite
+*.suo
+/e2e/.vs/VSWorkspaceState.json
